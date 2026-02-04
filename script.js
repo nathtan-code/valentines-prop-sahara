@@ -60,7 +60,7 @@ envelope.addEventListener("click", () => {
 // YES is clicked
 
 yesBtn.addEventListener("click", () => {
-    title.textContent = "Yippeee!";
+    title.textContent = "Valentwins!!!";
 
     catImg.src = "cat_dance.gif";
 
